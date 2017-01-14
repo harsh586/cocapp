@@ -15,4 +15,11 @@
 		"small": "http://i.imgur.com/bpfvG9pm.png",
 		"large": "http://i.imgur.com/bpfvG9ph.png"
 	}
+},
+{
+	"url": {
+		"small": "http://i.imgur.com/cpnueehm.png",
+		"large": "http://i.imgur.com/cpnueehh.png"
+	}
 }]
+
