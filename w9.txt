@@ -1,36 +1,29 @@
 [{
-	"name": "Deadpool",
 	"url": {
 		"small": "http://i.imgur.com/ia97Jh6t.jpg",
 		"medium": "http://i.imgur.com/ia97Jh6.jpg",
 		"large": "http://i.imgur.com/ia97Jh6.jpg"
-	},
-	"timestamp": "February 12, 2016"
+	}
 },
 {
-	"name": "Batman vs Superman",
 	"url": {
 		"small": "http://i.imgur.com/8TEjLGRt.jpg",
 		"medium": "http://i.imgur.com/8TEjLGR.jpg",
 		"large": "http://i.imgur.com/8TEjLGR.jpg"
-	},
-	"timestamp": "March 25, 2016"
+	}
 },
 {
-	"name": "Captain America: Civil War",
+
 	"url": {
 		"small": "http://i.imgur.com/Z4Z11YZt.jpg",
 		"medium": "http://i.imgur.com/Z4Z11YZ.jpg",
 		"large": "http://i.imgur.com/Z4Z11YZ.jpg"
-	},
-	"timestamp": "May 6, 2016"
+	}
 },
 {
-	"name": "Jason Bourne",
 	"url": {
 		"small": "http://i.imgur.com/iWd0HWkt.jpg",
 		"medium": "http://i.imgur.com/iWd0HWk.jpg",
 		"large": "http://i.imgur.com/iWd0HWk.jpg"
-	},
-	"timestamp": "July 29, 2016"
+	}
 }]
