@@ -21,5 +21,12 @@
 		"small": "http://i.imgur.com/cpnueehm.png",
 		"large": "http://i.imgur.com/cpnueehh.png"
 	}
-}]
+},
+{
+	"url": {
+		"small": "http://i.imgur.com/dJWHOQVm.png",
+		"large": "http://i.imgur.com/dJWHOQVh.png"
+	}
+}
+]
 
