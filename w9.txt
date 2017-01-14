@@ -1,17 +1,5 @@
 [{
 	"url": {
-		"small": "http://i.imgur.com/ia97Jh6m.jpg",
-		"large": "http://i.imgur.com/ia97Jh6.jpg"
-	}
-},
-{
-	"url": {
-		"small": "http://i.imgur.com/8TEjLGRm.jpg",
-		"large": "http://i.imgur.com/8TEjLGR.jpg"
-	}
-},
-{
-	"url": {
 		"small": "http://i.imgur.com/Z4Z11YZm.jpg",
 		"large": "http://i.imgur.com/Z4Z11YZ.jpg"
 	}
