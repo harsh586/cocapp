@@ -1,29 +1,29 @@
-[
+[{
 	"url": {
 		"small": "http://i.imgur.com/ia97Jh6t.jpg",
 		"medium": "http://i.imgur.com/ia97Jh6.jpg",
 		"large": "http://i.imgur.com/ia97Jh6.jpg"
-	
+	}
 },
-
+{
 	"url": {
 		"small": "http://i.imgur.com/8TEjLGRt.jpg",
 		"medium": "http://i.imgur.com/8TEjLGR.jpg",
 		"large": "http://i.imgur.com/8TEjLGR.jpg"
-	
+	}
 },
-
+{
 
 	"url": {
 		"small": "http://i.imgur.com/Z4Z11YZt.jpg",
 		"medium": "http://i.imgur.com/Z4Z11YZ.jpg",
 		"large": "http://i.imgur.com/Z4Z11YZ.jpg"
-	
+	}
 },
-
+{
 	"url": {
 		"small": "http://i.imgur.com/iWd0HWkt.jpg",
 		"medium": "http://i.imgur.com/iWd0HWk.jpg",
 		"large": "http://i.imgur.com/iWd0HWk.jpg"
-	
+	}
 }]
