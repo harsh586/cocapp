@@ -1,7 +1,7 @@
 [{
 	"url": {
 		"small": "http://i.imgur.com/aeRPtZOm.png",
-		"large": "http://i.imgur.com/aeRPtZOh.png"
+		"large": "http://i.imgur.com/aeRPtZOl.png"
 	}
 }
 ]
