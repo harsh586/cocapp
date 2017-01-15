@@ -68,6 +68,6 @@
 
 {"url": {"small": "http://i.imgur.com/gDsWN1Em.png","large": "http://i.imgur.com/gDsWN1Eh.png"}},
 
-{"url": {"small": "http://i.imgur.com/HcAyFRem.jpg","large": "http://i.imgur.com/JHcAyFReh.jpg"}}
+{"url": {"small": "http://i.imgur.com/HcAyFRem.jpg","large": "http://i.imgur.com/HcAyFRem.jpg"}}
 
 ]
