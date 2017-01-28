@@ -6,5 +6,5 @@
 {"url": {"large": "http://i.imgur.com/gv3XJ4jh.png"}},
 {"url": {"large": "http://i.imgur.com/QcPkUolh.png"}},
 {"url": {"large": "http://i.imgur.com/fBQnzZkh.png"}},
-{"url": {"large": "http://i.imgur.com/8zwiUk2h.png"}}
+{"url": {"large": "http://i.imgur.com/8zwiUk2h.png"}},
 ]
